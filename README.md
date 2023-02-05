@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Ayushr01
-- 👀 I’m interested in ...BlockChain
-- 🌱 I’m currently learning ... DSA
-- 💞️ I’m looking to collaborate on ... BLOCKCHAIN
-- 📫 How to reach me ... email-ayushunofficial1@gmail.com
+- 👋 Hi, I’m Ayush
+- 👀 I’m interested in ... nothing 
+- 🌱 I’m currently learning ... Failures
+- 💞️ I’m looking to collaborate on ... Let's see
 
 <!---
 Ayushr01/Ayushr01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

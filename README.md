@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayush
-- 👀 I’m interested in convering ideas into buisiness using technologies.
+- 👀 I’m interested in converting ideas into business using technologies.
 - 🌱 I’m currently Working as a Software Developer.
 
 <!---
